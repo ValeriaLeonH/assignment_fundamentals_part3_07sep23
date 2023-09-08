@@ -1,20 +1,13 @@
 # template-readme
 
-![]()
-
-# Project Name
-
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![Alt text](image.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- html
+- JavaScript 
+- VSCode
+
 
 ## Live Demo
 
