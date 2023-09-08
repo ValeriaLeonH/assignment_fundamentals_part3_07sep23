@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Exercise 3</h1>
+  <p>Write a function called capitalize that takes a string and returns that string with only the first letter capitalized. Make sure that it can take strings that are lowercase, UPPERCASE or BoTh.</p>
+  <script>
+    /* function capitalize(text){
+    let text1 = text.slice(1);
+    let text2 = text.substr(2);
+    let text3 = text1.toUpperCase();
+    let text4 = text2.toLowerCase();
+    return (text3 + text4);
+    }
+    let x = 'Hola MUNDOO'
+    let result = capitalize(x);
+    console.log(result); */
+
+    function capitalize(text){
+      let text3 = text.slice(0,1).toUpperCase();
+      let text4 = text.substr(1).toLowerCase();
+      return (text3 + text4);
+      }
+      let x = 'Hola MUNDOO'
+      let result = capitalize(x);
+      console.log(result);
+  </script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 # template-readme
 
-![](https://img.shields.io/badge/Uneweb-blue)
+![]()
 
 # Project Name
 
@@ -45,23 +45,18 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Valeria Leon**
 
 - GitHub: [@aValeriaLeonH](https://github.com/ValeriaLeonH)
 - Twitter: [colocartwitter]()
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/valeria-leon-30960527a/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/ValeriaLeonH/assignment_fundamentals_part3_07sep23/issues).
 
 ## Show your support
 
