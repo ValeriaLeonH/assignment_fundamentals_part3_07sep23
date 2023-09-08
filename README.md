@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[This is Live](https://valerialeonh.github.io/assignment_fundamentals_part3_07sep23/)
 
 
 ## Getting Started
